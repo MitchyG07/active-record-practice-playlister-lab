@@ -1,2 +1,2 @@
-class CreateGenres < ActiveRecord::Migration[5.2]
+class CreateGenres < ActiveRecord::Migration[6.0]
 end
